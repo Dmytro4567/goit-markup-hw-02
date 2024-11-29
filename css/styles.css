@@ -36,6 +36,7 @@ ul, ol {
     font-weight: 500;
     line-height: 1.5;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .contacts {
@@ -72,7 +73,6 @@ ul, ol {
     color: white;
     font-weight: 500;
     line-height: 1.5;
-    box-shadow: 0 4px 4px 0 #00000026;
     letter-spacing: 0.04em;
 }
 
@@ -93,6 +93,7 @@ ul, ol {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .solutions-list-item-text {
